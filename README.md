@@ -1,2 +1,4 @@
-# koronavirus-adatelemzes
-Covid adatok elemzése és vizualizálása
+streamlit
+pandas
+openpyxl
+plotly
